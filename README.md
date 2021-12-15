@@ -14,19 +14,14 @@
 
 ## 3.실행
 
-    - `$ java -jar ./build/libs/url_encoding.war`
-
-    
-## 4.접속
-
-    - `localhost`
+    - `$ java -jar ./build/libs/backpacker-homework-0.0.1-SNAPSHOT.jar`
 
 
-## 5.swagger api문서
+## 4.swagger api문서
 
     - http://localhost:8080/swagger-ui/
 
 
-## 6.DB Table 생성 script
+## 5.DB Table 생성 script
 
     - /src/main/resources/schema.sql
